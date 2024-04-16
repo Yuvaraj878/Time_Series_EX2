@@ -116,9 +116,11 @@ lin2.predict(poly.fit_transform(pred2array))
 ### OUTPUT
 
 A - LINEAR TREND ESTIMATION
+
 ![alt text](image.png)
 
 B- POLYNOMIAL TREND ESTIMATION
+
 ![alt text](image-1.png)
 
 ### RESULT:
